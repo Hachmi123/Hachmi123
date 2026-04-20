@@ -62,7 +62,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" style="border-radius: 20px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
