@@ -30,7 +30,7 @@
 <br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)" width="100%">
 </p>
 
 <br />
