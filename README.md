@@ -62,7 +62,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZxeXdueDl4cWU1aW1xMmZlaHJ2cXF1MWdmazYxeHM2aWZlamVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="90%" style="border-radius: 20px;" />
+      <img src="https://i.pinimg.com/736x/d8/c9/8d/d8c98de884f4b3805dd96fbc568afb26.jpg" width="90%" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
